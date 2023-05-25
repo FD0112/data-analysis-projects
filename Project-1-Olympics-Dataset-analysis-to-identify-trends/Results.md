@@ -26,6 +26,8 @@ A matrix was created to find countries with better participation to win conversi
 
 ## Sport and Events Growth Analysis:
 
+Two matrices were created to observe the trend in sports and events played since 1890s.
+
 - Sports
 ![image](https://github.com/FD0112/data-analysis-projects/assets/132354930/ce6a1848-1747-4b53-a87d-d1a74d04f50a)
 
@@ -35,9 +37,12 @@ A matrix was created to find countries with better participation to win conversi
 ## Gender wise Analysis:
 
 - Gender wise Participation
+
 ![image](https://github.com/FD0112/data-analysis-projects/assets/132354930/1a61566d-4025-4ae8-840f-0a5f1b523a99)
 
 - Catalyst to Women Participation Growth
+
+A matrix was created to find relation between women participation and events growth, and it was further observed that women participation was mainly increased due to the induction of more women centric events.
 
 -- Women Participation Growth
 ![image](https://github.com/FD0112/data-analysis-projects/assets/132354930/69b486d9-0c40-42bb-81ed-e6ea632bf0de)
