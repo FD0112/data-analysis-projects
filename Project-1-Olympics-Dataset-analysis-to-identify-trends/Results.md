@@ -16,12 +16,15 @@ A matrix was created to find countries with better participation to win conversi
 ## Cities from top performing countries producing most athletes:
 
 - USA
+
 ![image](https://github.com/FD0112/data-analysis-projects/assets/132354930/4d3f8fe7-fd1a-4430-9460-4fa680fc5b82)
 
 - Russia
+
 ![image](https://github.com/FD0112/data-analysis-projects/assets/132354930/a8ffee35-2c3d-45c4-b088-e490e999cbc4)
 
 - Germany
+
 ![image](https://github.com/FD0112/data-analysis-projects/assets/132354930/67a41436-f805-45ff-a5b0-9447b30ec672)
 
 ## Sport and Events Growth Analysis:
@@ -29,9 +32,11 @@ A matrix was created to find countries with better participation to win conversi
 Two matrices were created to observe the trend in sports and events played since 1890s.
 
 - Sports
+ 
 ![image](https://github.com/FD0112/data-analysis-projects/assets/132354930/ce6a1848-1747-4b53-a87d-d1a74d04f50a)
 
 - Events
+
 ![image](https://github.com/FD0112/data-analysis-projects/assets/132354930/efff4202-18fe-4eff-bb39-d57d16c0ed8d)
 
 ## Gender wise Analysis:
@@ -45,8 +50,11 @@ Two matrices were created to observe the trend in sports and events played since
 A matrix was created to find relation between women participation and events growth, and it was further observed that women participation was mainly increased due to the induction of more women centric events.
 
 -- Women Participation Growth
+
 ![image](https://github.com/FD0112/data-analysis-projects/assets/132354930/69b486d9-0c40-42bb-81ed-e6ea632bf0de)
+
 -- Women Centric Events Growth
+
 ![image](https://github.com/FD0112/data-analysis-projects/assets/132354930/ec46fd75-3589-43a1-9a94-e0d08367aa8b)
 
 
