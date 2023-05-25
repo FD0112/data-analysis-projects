@@ -10,13 +10,15 @@ Identity how Olympics games have grown, which locations are preferrable for athl
 For this analysis, I have selected dataset from SportsStats which is a sports analysis firm providing interesting insights like patterns/trends to local news.
 
 # Techniques or methodologies applied:
+- Time Series Analysis
 - Exploratory Data Analysis
+- Visualization
 
 # Key Findings:
 - USA, Russia and Germany were found to be most dominating and with best participation to win ratios of 33%, 29% and 23% respectively.
 - It was observed that few cities are more preferrable when it comes to producing competitive athletes such as Los Angeles, Moskva and Seoul.
 - Sports and events have been on the rise since 1890s. From 34 sports to 66 sports and 342 events to 765 events.
-- Women participation has increased from 1% in 1900s to 40% in 2000s, thanks to more women centric events induction.
+- Women participation has increased from 1% in 1900s to 42% in 2000s, thanks to more women centric events induction.
 
 # Visualization:
 ![Participation to Win Ratio](https://github.com/FD0112/data-analysis-projects/assets/132354930/f30914e2-b658-4bfe-a638-0f0d1044720a)
