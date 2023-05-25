@@ -20,10 +20,6 @@ For this analysis, I have selected dataset from SportsStats which is a sports an
 
 # Visualization:
 ![Participation to Win Ratio](https://github.com/FD0112/data-analysis-projects/assets/132354930/f30914e2-b658-4bfe-a638-0f0d1044720a)
-![Top USA cities](https://github.com/FD0112/data-analysis-projects/assets/132354930/5caff625-7375-4ac0-8d03-39ba862c978f)
-![Top Russia cities](https://github.com/FD0112/data-analysis-projects/assets/132354930/28b760d3-6a1c-4a93-bd8d-c9cfa20096b9)
-![Top Germany cities](https://github.com/FD0112/data-analysis-projects/assets/132354930/b4ca8dbd-dd29-4e3d-aa86-98e5fecb9d8a)
 ![Sports Growth](https://github.com/FD0112/data-analysis-projects/assets/132354930/91c62240-2173-405a-956c-35b77970134d)
 ![Events Growth](https://github.com/FD0112/data-analysis-projects/assets/132354930/6089a3dc-4eba-4ad0-8296-63e53f25ae93)
-![Gender Wise Participation](https://github.com/FD0112/data-analysis-projects/assets/132354930/17b74ea6-e48e-4f03-871f-97fe5917a842)
 ![Women Participation Growth](https://github.com/FD0112/data-analysis-projects/assets/132354930/bbfa74e4-7133-4c9b-86e8-771615c1f9c1)
