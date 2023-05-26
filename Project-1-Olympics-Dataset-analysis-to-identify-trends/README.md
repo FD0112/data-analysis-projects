@@ -8,8 +8,7 @@ Identity how Olympics games have grown, which locations are preferrable for athl
 
 # Data used:
 For this analysis, I have selected dataset from SportsStats which is a sports analysis firm providing interesting insights like patterns/trends to local news.
-## Link:
-https://www.dropbox.com/sh/0wqw8fmiwrzr8ef/AABQijjQM522INXX1FCdamzma?dl=0
+## [SportsStats Dataset](https://www.dropbox.com/sh/0wqw8fmiwrzr8ef/AABQijjQM522INXX1FCdamzma?dl=0)
 
 # Techniques or methodologies applied:
 - Time Series Analysis
