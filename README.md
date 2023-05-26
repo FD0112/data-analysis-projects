@@ -8,8 +8,8 @@ I started as a procurement engineer, developing interest in data analytics and d
 
 ## Projects:
 
-### Project-1:
-- Description: Olympics Dataset analysis to identify trends
+### [Project-1: Olympics Dataset analysis to identify trends](Project-1-Olympics-Dataset-analysis-to-identify-trends/)
+- Description: Identfied trends in the Sportstats dataset using Time series analysis
 - Techniques: Time series analysis, data visualization
 - Key Findings: USA (Los Angeles), Russia (Moskva), Germany (Seoul) were found to be most dominating and prefered locations for athletes selection. Also, with the growth in events, women participation has increased drastically from 1% to 42%
 
